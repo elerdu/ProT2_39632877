@@ -1,5 +1,5 @@
 <!-- Registro de la web-->
-    <div class="container mt-3">
+    <div class="container mb-5 mt-5">
         <div class="row justify-content-center">
             <div class="col-md-6 col-lg-5">
                 <div class="card shadow-sm">
