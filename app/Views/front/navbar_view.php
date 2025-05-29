@@ -20,7 +20,7 @@
                 <a class="nav-link" href="#">Catalogo</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contacto</a>
+                <a class="nav-link" href="contacto">Contacto</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="registro">Registrarse</a>

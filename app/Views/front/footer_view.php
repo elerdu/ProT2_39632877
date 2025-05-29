@@ -6,7 +6,7 @@
         <ul>
             <li><a href="#">Preguntas Frecuentes</a></li>
             <li><a href="#">Soporte</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="contacto">Contacto</a></li>
         </ul>
     </div>
     <div class="footer-section">
