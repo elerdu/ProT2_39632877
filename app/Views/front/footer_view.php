@@ -4,8 +4,8 @@
         <div class="footer-section">
         <h3>Ayuda</h3>
         <ul>
-            <li><a href="#">Preguntas Frecuentes</a></li>
-            <li><a href="#">Soporte</a></li>
+            <li><a href="preguntas_frecuentes">Preguntas Frecuentes</a></li>
+            <li><a href="soporte">Soporte</a></li>
             <li><a href="contacto">Contacto</a></li>
         </ul>
     </div>

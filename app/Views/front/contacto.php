@@ -2,7 +2,7 @@
     <div class="card shadow-lg">
         <section style="padding: 40px; background-color: #f9f9f9;">
             <div style="max-width: 1200px; margin: auto;">
-                <h2 style="text-align: center; margin-bottom: 30px;">Contáctanos</h2>
+                <h2 class="text-primary" style="text-align: center; margin-bottom: 30px;">Contáctanos</h2>
 
                 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
                 <!-- Información de contacto -->
