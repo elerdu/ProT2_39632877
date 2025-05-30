@@ -25,7 +25,6 @@
 <div class="container py-3">
     <h2 class="text-center mb-4">Categorías</h2>
     <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6 g-3">
-
     <div class="col">
     <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
         <div class="categoria-item text-center">
@@ -34,7 +33,6 @@
         </div>
     </a>
 </div>
-
 <div class="col">
     <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
         <div class="categoria-item text-center">
@@ -43,7 +41,6 @@
         </div>
     </a>
 </div>
-
 <div class="col">
     <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
         <div class="categoria-item text-center">
@@ -52,7 +49,6 @@
         </div>
     </a>
 </div>
-
 <div class="col">
     <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
         <div class="categoria-item text-center">

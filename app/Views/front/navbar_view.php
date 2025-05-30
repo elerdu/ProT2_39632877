@@ -25,7 +25,7 @@
                 <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="categoria.html?seccion=tecnologia">Tecnología</a></li>
                     <li><a class="dropdown-item" href="categoria.html?seccion=hogar">Hogar</a></li>
-                    <li><a class="dropdown-item" href="categoria.html?seccion=ropa">Moda</a></li>
+                    <li><a class="dropdown-item" href="categoria.html?seccion=moda">Moda</a></li>
                 </ul>
             </li>
             <li class="nav-item">

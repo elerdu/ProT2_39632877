@@ -17,8 +17,8 @@
                             </div>
 
                             <div class="d-flex justify-content-evenly mb-3">
-                                <button type="submit" class="btn btn-primary">Ingresar</button>
-                                <button type="reset" class="btn btn-secondary">Cancelar</button>
+                                <button type="submit" class="btn btn-success">Ingresar</button>
+                                <button type="reset" class="btn btn-danger">Cancelar</button>
                             </div>
 
                             <p class="text-center mt-3 mb-0">

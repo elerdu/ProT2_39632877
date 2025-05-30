@@ -20,7 +20,7 @@
 
 <!-- Categoría: Hogar -->
     <div class="col">
-        <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
+        <a href="categoria.html?seccion=hogar" class="text-decoration-none text-dark">
             <div class="card h-100 text-center shadow-sm p-3">
                 <img src="assets/img/electrohogar1.jpg" 
                 class="rounded-circle mx-auto d-block mb-3" 
@@ -36,7 +36,7 @@
 
 <!-- Categoría: Moda -->
     <div class="col">
-    <a href="categoria.html?seccion=tecnologia" class="text-decoration-none text-dark">
+    <a href="categoria.html?seccion=moda" class="text-decoration-none text-dark">
         <div class="card h-100 text-center shadow-sm p-3">
         <img src="assets/img/moda1.jpg" 
             class="rounded-circle mx-auto d-block mb-3" 

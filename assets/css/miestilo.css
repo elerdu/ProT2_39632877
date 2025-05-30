@@ -1,53 +1,53 @@
 /* Inicio footer */
 .footer {
-background-color: #222;
-color: #fff;
-padding: 40px 20px 20px;
-font-family: sans-serif;
+    background-color: #222;
+    olor: #fff;
+    padding: 40px 20px 20px;
+    font-family: sans-serif;
 }
 
 .footer-container {
-display: flex;
-flex-wrap: wrap;
-justify-content: space-between;
-max-width: 1500px;
-margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1500px;
+    margin: auto;
 }
 
 .footer-section {
-flex: 1 1 200px;
-margin: 10px;
+    flex: 1 1 200px;
+    margin: 10px;
 }
 
 .footer-section h3 {
-font-size: 18px;
-margin-bottom: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .footer-section ul {
-list-style: none;
-padding: 0;
+    list-style: none;
+    padding: 0;
 }
 
 .footer-section ul li {
-margin-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .footer-section ul li a {
-color: #ccc;
-text-decoration: none;
+    color: #ccc;
+    text-decoration: none;
 }
 
 .footer-section ul li a:hover {
-color: #fff;
+    color: #fff;
 }
 
 .footer-bottom {
-text-align: center;
-margin-top: 30px;
-border-top: 1px solid #444;
-padding-top: 15px;
-font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+    border-top: 1px solid #444;
+    padding-top: 15px;
+    font-size: 14px;
 }
 /* Responsivo: apila las secciones en celulares */
 @media (max-width: 768px) {
@@ -62,3 +62,24 @@ font-size: 14px;
 }
 }
 /* Fin footer */
+/* Inicio contacto */
+.contact-container {
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+
+.contact-info, .contact-map {
+    flex: 1;
+    min-width: 300px;
+}
+
+.contact-info h3 {
+    margin-top: 0;
+}
+
+.contact-map iframe {
+    width: 100%;
+    height: 300px;
+    border: 0;
+}
+/* Fin contacto*/
